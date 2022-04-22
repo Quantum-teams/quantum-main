@@ -1,0 +1,6 @@
+[submodule "fuyanying"]
+	path = fuyanying
+	url = https://github.com/Quantum-teams/fuyanying.git
+[submodule "liucheng"]
+	path = liucheng
+	url = https://github.com/Quantum-teams/liucheng.git
